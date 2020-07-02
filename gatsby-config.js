@@ -4,7 +4,21 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Roland`,
+    // Default title of the page
+    siteTitleAlt: `Roland Personal Site`,
+    // Can be used for e.g. JSONLD
+    siteHeadline: `Roland personal site`,
+    // Will be used to generate absolute URLs for og:image etc.
+    siteUrl: `https://durandalsowner.github.io/`,
+    // Used for SEO
+    siteDescription: `A personal site about myself, lovely people, and the world.`,
+    // Will be set on the <html /> tag
+    siteLanguage: `en`,
+    // Used for og:image and must be placed inside the `static` folder
+    siteImage: `/banner.jpg`,
+    // Twitter Handle
+    author: `Roland S`,
   },
   plugins: [
     {
@@ -20,16 +34,16 @@ module.exports = {
             title: `About`,
             slug: `/about`,
           },
+          {
+            title: `Photography`,
+            slug: `/photography`,
+          },
+          {
+            title: `Travel Map`,
+            slug: `/travelmap`,
+          },
         ],
         externalLinks: [
-          {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
-          },
-          {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
-          },
         ],
       },
     },
@@ -43,9 +57,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Roland blog`,
+        short_name: `personal blog`,
+        description: ``,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
