@@ -77,16 +77,6 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-ee4583a962a29f3a5d35.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/reinforcement_learning_1/page-data.json>; rel=preload; as=fetch; crossorigin
-/travelmap
-  Link: </webpack-runtime-6e14dc0f1ff528185d19.js>; rel=preload; as=script
-  Link: </framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
-  Link: </f0e45107-8f9685f7c62f1f1a42ed.js>; rel=preload; as=script
-  Link: </app-333b700260feea0c716a.js>; rel=preload; as=script
-  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-de50928ca79011836159.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-b8e0f3b4e2cbe87f702b.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/travelmap/page-data.json>; rel=preload; as=fetch; crossorigin
 /about
   Link: </webpack-runtime-6e14dc0f1ff528185d19.js>; rel=preload; as=script
   Link: </framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
@@ -97,6 +87,16 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-b8e0f3b4e2cbe87f702b.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/travelmap
+  Link: </webpack-runtime-6e14dc0f1ff528185d19.js>; rel=preload; as=script
+  Link: </framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
+  Link: </f0e45107-8f9685f7c62f1f1a42ed.js>; rel=preload; as=script
+  Link: </app-333b700260feea0c716a.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-de50928ca79011836159.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-b8e0f3b4e2cbe87f702b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/travelmap/page-data.json>; rel=preload; as=fetch; crossorigin
 /photography
   Link: </webpack-runtime-6e14dc0f1ff528185d19.js>; rel=preload; as=script
   Link: </framework-f600a0dcdbbe2ab3be17.js>; rel=preload; as=script
